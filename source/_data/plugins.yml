@@ -393,6 +393,12 @@
       keywords: [testing, ui, dom, assertions]
       badge: community
 
+    - name: cypress-maildev
+      description: An easy-to-use cypress plugin to use Maildev API and test emails and SMS messages.
+      link: https://github.com/clebiez/cypress-maildev
+      keywords: [email, sms, commands, maildev]
+      badge: community
+
 - name: Extending other testing frameworks
   plugins:
     - name: cyphell
